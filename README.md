@@ -2,6 +2,8 @@
 
 Jou jou jou
 
+
+Bash script na assemble link execute a remove
 ```
 #!/bin/bash
 subor=$1
